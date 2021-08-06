@@ -4,7 +4,7 @@ This is a dataset of handwritten cities in Iran in Arabic/Persian that has been 
 
 # Citing the Project
 To cite this repository in publications:
-
+```bibtex
 @article{moradi2016ocr,
 	author = {Mehrdad Moradi, Mohammad Eshghi and Karim Shahbazi},
 	title = {A Trainless Recognition of Handwritten Persian/Arabic Letters using Primitive Elements},
@@ -22,3 +22,4 @@ To cite this repository in publications:
 	publisher = {Foundation of Computer Science (FCS), NY, USA},
 	address = {New York, USA}
 }
+'''
